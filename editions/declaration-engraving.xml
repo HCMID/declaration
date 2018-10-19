@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Declaration of Independence</title>
+        <editor>Neel SMith</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished work in progress</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from publicly available images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <div n="1">
+        <p>In CONGRESS, July 4, 1776.</p>
+      </div>
+      <div n="2">
+        <p>The unanimous Declaration of the thirteen united States of America,</p>
+      </div>
+      <div n="3">
+        <p>When in the course of human events, it becomes necessary for one people to disolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.-
+      </div>
+      <div n="4">
+        <p>We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.-
+      </div>
+      <div n="5">
+        <p>That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed,-
+      </div>
+    </body>
+  </text>
+
+</TEI>
